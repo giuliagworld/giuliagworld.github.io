@@ -8,7 +8,7 @@
     "build": "webpack",
     "dev": "webpack-dev-server --open --progress",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -b master -d dist"
   },
   "repository": {
     "type": "git",
