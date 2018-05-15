@@ -1,0 +1,27 @@
+// Breakpoints
+$breakpoints: (
+  xs : 0,
+  sm : 576px,
+  md : 768px,
+  lg : 992px,
+  xl : 1200
+);
+
+// Colours
+$black             : rgb(0, 0, 0);
+$white             : rgb(255, 255, 255);
+$yellow            : rgb(248, 226, 92);
+$dark-turquoise    : rgb(108, 207, 151);
+$light-turquoise   : rgb(196, 233, 192);
+$grey              : rgb(126, 126, 126);
+
+// Font sizes
+$global      : 16px;
+$heading-1   : 28px;
+$heading-2   : 24px;
+$heading-3   : 22px;
+$body-1      : 18px;
+$body-2      : 16px;
+
+// Font family
+$font-family: helvetica;
