@@ -19187,7 +19187,7 @@ var Header = function Header(props) {
     className: "heading-1"
   }, "Giulia G"), _react.default.createElement("h2", {
     className: "heading-2"
-  }, "Front End ", _react.default.createElement("br", null), " Web Developer"), _react.default.createElement("a", {
+  }, "Scrum Master"), _react.default.createElement("a", {
     href: "https://github.com/giuliagworld"
   }, _react.default.createElement("img", {
     className: "img",
