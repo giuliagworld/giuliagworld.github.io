@@ -19194,7 +19194,7 @@ var Header = function Header(props) {
     src: "/assets/github-circle.svg",
     width: "50"
   })), _react.default.createElement("a", {
-    href: "https://uk.linkedin.com/in/giuliagwebdeveloper"
+    href: "https://linkedin.com/in/giuliagazzabin"
   }, _react.default.createElement("img", {
     className: "img",
     src: "/assets/linkedin-circle.svg",
