@@ -19239,6 +19239,11 @@ var Projects = function Projects(props) {
     className: "single body-1"
   }, _react.default.createElement("a", {
     className: "link",
+    href: "https://giuliagworld.github.io/agile-guide/"
+  }, "Agile Guide")), _react.default.createElement("li", {
+    className: "single body-1"
+  }, _react.default.createElement("a", {
+    className: "link",
     href: "https://giuliagworld.github.io/pinpad/"
   }, "PinPad")), _react.default.createElement("li", {
     className: "single body-1"

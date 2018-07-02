@@ -6,6 +6,7 @@ const Projects = props => {
       <div className="wrapper">
         <h2 className="heading-2">Personal Projects</h2>
         <ul className="projects-list">
+          <li className="single body-1"><a className="link" href="https://giuliagworld.github.io/agile-guide/">Agile Guide</a></li>
           <li className="single body-1"><a className="link" href="https://giuliagworld.github.io/pinpad/">PinPad</a></li>
           <li className="single body-1"><a className="link" href="https://giuliagworld.github.io/email-listing-app/">Email Listing App</a></li>
           <li className="single body-1"><a className="link" href="https://giuliagworld.github.io/scoreboard/">Scoreboard</a></li>
